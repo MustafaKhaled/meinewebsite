@@ -3,7 +3,9 @@ languageCode: "en-us"
 title: "Mustafa Khaled"
 theme: hugo-profile
 
-ignoreErrors: ["error-remote-getjson"]
+build:
+  ignoreErrors:
+    - "error-remote-getjson"
 
 outputs:
   home:
