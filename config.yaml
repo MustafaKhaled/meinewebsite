@@ -3,6 +3,10 @@ languageCode: "en-us"
 title: "Mustafa Khaled"
 theme: hugo-profile
 
+build:
+  ignoreErrors:
+    - "error-remote-getjson"
+
 outputs:
   home:
     - "HTML"
