@@ -63,7 +63,7 @@ Menus:
 
 params:
   title: "Mustafa Khaled"
-  description: Text about my cool site
+  description: Software Engineer
   # staticPath: ""  # The path to serve the static files from
   favicon: "/logo_icon_no_background.png"
 
